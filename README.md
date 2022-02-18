@@ -1,4 +1,4 @@
-### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/b50f6490-0254-495b-a53f-575f4f8dfb23.svg)](https://wakatime.com/@b50f6490-0254-495b-a53f-575f4f8dfb23)
 
 <!--
 **scnichols/scnichols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
